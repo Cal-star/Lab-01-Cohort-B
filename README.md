@@ -10,6 +10,6 @@ This repository contains Java programs that simulate a football team selection p
 - **PlayerSelection.java** – Integrated program generating detailed player reports and demonstrating switch-case fall-through.
 
 **Developer:** Cal Senam Afun  
-** ID ** 46652028
-** Lab Number ** Lab-01
+**ID** 46652028
+**Lab Number** Lab-01
 **Date:** 2025-09-20
